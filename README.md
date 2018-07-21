@@ -9,7 +9,7 @@ This script reads back selected text when triggerd by a keyboard shortcut, like 
 ## Dependencies
 This script relies on the espeak and xsel packages.  
 Espeak comes preinstalled on many linux distros.  
-I am using this on Linux Mint 19 with the gnome desktop environment.  
+I am using this on Linux Mint 19 with the gnome 3 desktop environment runnign on the x window system.  
 You can check if you have espeak installed by with the following command
 ```
 espeak hello
@@ -35,7 +35,7 @@ Clone or otherwise download this repo somewhere into your home directory.
 Now cd into the directory and run `chmod +x tts.sh` to make the script executable.  
 Now all you need to do is set a keyboard shortcut to run the *tts.sh* script.  
 Settings will very between distros and desktops, but the process should be mostly the same.  
-For me (again I'm on Linux Mint 19 with the gnome desktop environment), the process is.  
+For me (again I'm on Linux Mint 19 with the gnome 3 desktop environment runnign on the x window system), the process is.  
 * Go to settings, 
 * search for keyboard shortcuts, 
 * scroll to the bottom and click add new shortcut,
