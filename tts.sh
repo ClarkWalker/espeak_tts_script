@@ -6,4 +6,3 @@ function state {
 	xsel -c
 }
 state | espeak --stdin
-# killall espeak
