@@ -28,7 +28,7 @@ For Debian based systems you can try
 apt-get install xsel
 ```
 To test xsel try selecting any text anywhere and running `xsel` in the command line
-you should see the text you selected printed to the command line.
+you should see the text you selected printed to the command line.  Yup, that's what xsel does ;)
 
 ## Installation
 Clone or otherwise download this repo somewhere into your home directory.  
