@@ -34,15 +34,13 @@ you should see the text you selected printed to the command line.  Yup, that's w
 1. Clone or otherwise download this repo somewhere into your home directory.  
 2. cd into the directory and run `chmod +x tts.sh` to make the script executable.  
 3. Now all you need to do is set a keyboard shortcut to run the *tts.sh* script.  
+	* Settings will very between distros and desktops, but the process of adding a shortcut should be mostly the same.  For me (again I'm on Linux Mint 19 with the gnome 3 desktop environment runnign on the x window system), the process is.  
 
-Settings will very between distros and desktops, but the process should be mostly the same.  
-For me (again I'm on Linux Mint 19 with the gnome 3 desktop environment runnign on the x window system), the process is.  
-
-* Go to settings, 
-* search for keyboard shortcuts, 
-* scroll to the bottom and click add new shortcut,
-* give it a name and pick a shortcut key combination
-* give it the path to the file
+		1. Go to settings, 
+		2. search for keyboard shortcuts, 
+		3. scroll to the bottom and click add new shortcut,
+		4. give it a name and pick a shortcut key combination
+		5. give it the path to the file
 *The important part is giving it the path to the tts.sh file*
 that's all you have to do is just give it the path to the file
 for me that is `~/tts/tts.sh`
