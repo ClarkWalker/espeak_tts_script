@@ -45,4 +45,4 @@ you should see the text you selected printed to the command line.  Yup, that's w
 that's all you have to do is just give it the path to the file
 for me that is `~/tts/tts.sh`
 
-hope you like it :)
+Hope you like it :)
