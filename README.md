@@ -21,7 +21,7 @@ You should be able to install espeak with...
 ```
 apt-get install espeak
 ```
-Once you have it installed test it with `espeak hello` or to varify it is working correctly.  
+Once you have it installed test it with `espeak hello` to varify it is working correctly.  
 You probably don't have xsel installed by default and again you should be able to find it in your distros package manager.  
 For Debian based systems you can try
 ```
