@@ -1,7 +1,4 @@
 #!/bin/bash
-# this is the smallest and most useful script I have ever written
+# this is the smallest amount of code I have ever written that is this useful!
 killall espeak
-state() {
-	xsel -c 
-}
-state | espeak --stdin
+xsel -c | espeak --stdin
