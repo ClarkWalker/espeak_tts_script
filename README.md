@@ -5,6 +5,7 @@ This script reads back selected text when triggerd by a keyboard shortcut, like 
 * hit your chosen keyboard shortcut
 * listen to your text read back
 * you can stop audio playback of the text by hitting the same shortcut a second time
+
 ## Dependencies
 This script relies on the espeak and xsel packages.  
 Espeak comes preinstalled on many linux distros.  
