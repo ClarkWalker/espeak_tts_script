@@ -31,8 +31,8 @@ To test xsel try selecting any text anywhere and running `xsel` in the command l
 you should see the text you selected printed to the command line.  Yup, that's what xsel does ;)
 
 ## Installation
-Clone or otherwise download this repo somewhere into your home directory.  
-Now cd into the directory and run `chmod +x tts.sh` to make the script executable.  
+- 1 Clone or otherwise download this repo somewhere into your home directory.  
+- 2 Now cd into the directory and run `chmod +x tts.sh` to make the script executable.  
 Now all you need to do is set a keyboard shortcut to run the *tts.sh* script.  
 Settings will very between distros and desktops, but the process should be mostly the same.  
 For me (again I'm on Linux Mint 19 with the gnome 3 desktop environment runnign on the x window system), the process is.  
