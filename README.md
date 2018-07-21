@@ -44,7 +44,7 @@ you should see the text you selected printed to the command line.  Yup, that's w
 
 **The important part is giving it the path to the tts.sh file**
 
-that's all you have to do is just give it the path to the file
 for me that is `~/tts/tts.sh`
+that's all you have to do is just give it the path to the file
 
 Hope you like it :)
