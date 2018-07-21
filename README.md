@@ -10,7 +10,7 @@ This script reads back selected text when triggerd by a keyboard shortcut, like 
 This script relies on the espeak and xsel packages.  
 Espeak comes preinstalled on many linux distros.  
 I am using this on Linux Mint 19 with the gnome 3 desktop environment running on the x window system.  
-You can check if you have espeak installed by with the following command
+You can check if you have espeak installed with the following command
 ```
 espeak hello
 ```
