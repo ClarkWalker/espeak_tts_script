@@ -1,6 +1,5 @@
 # Purpose
 This script reads back selected text when triggerd by a keyboard shortcut, like in OSX.
-
 ## Usage
 * select some text to read
 * hit your chosen keyboard shortcut
