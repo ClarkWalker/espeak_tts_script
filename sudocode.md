@@ -1,4 +1,7 @@
 ```
+# was perviously using xsel -c 
+
+
 # detect if espeak is currently running
 # if espeak is currently running
 	# stop espeak
