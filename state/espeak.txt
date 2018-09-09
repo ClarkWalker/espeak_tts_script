@@ -1,0 +1,1 @@
+	espeak -f ~/tts/state/espeak.txt # passes text to espeak
