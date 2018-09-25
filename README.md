@@ -1,5 +1,5 @@
 # Purpose
-This script reads back selected text when triggerd by a keyboard shortcut, like in OSX.
+This BASh script for Linux reads back selected text when triggerd by a keyboard shortcut, the behavior paralells the OSX feature that does the same.
 ## Usage
 * select some text to read
 * hit your chosen keyboard shortcut
