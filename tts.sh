@@ -10,3 +10,4 @@ else
 fi
 
 # if pidof espeak > 0; then killall -s KILL espeak; else espeak -a 100 -s 350 "... $(xsel) ...";fi
+
