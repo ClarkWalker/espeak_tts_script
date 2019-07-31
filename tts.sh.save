@@ -1,7 +1,0 @@
-#!/bin/bash
-if pidof espeak > 0; then # is espeak running? # does this cover edge cases?
-	killall espeak # stops espeak
-else
-	# eed and the default is 175
-	xsel | espeak --stdin -s 175 # pipes selected text to espeak # how to make stateful?
-fi
